@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.logo{
+    
+    background-color: #209bff ;
+    background-image: url(/img/pattern.png);
+    background-size:500px ;
+    background-position: top right;
+    background-attachment: scroll;
+    height: 130px;
+}
+
+.headerthe{
+    font-size: 20px;
+    color: aliceblue;
+    font-family: ;'Roboto Serif', sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+    position: relative;
+    top:60px;
+    left: 40px;    
+}
+
+.headerbooleaner{
+    font-size: 40px;
+    color: aliceblue;
+    font-family: ;'Roboto Serif', sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+    position: relative;
+    top:40px;
+    left: 10px;
+}
+
+  main{
+      margin-top: 20px;
+      margin-left: 10px;
+  }
+
+  .title{
+      font-size: 40px;
+      font-weight: bold;
+  }
+  
+  .by{
+    color: rgb(94, 94, 94);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+  .author{
+      color: rgb(6, 184, 255);
+      font-size: 20px;
+      font-weight: 700;
+  }
+
+  .date{
+    color: rgb(94, 94, 94);
+    font-size: 15px;
+}
+
+ .descrizione{
+     font-size: 15px;
+ }
+
+ .dots{
+     margin-left: 10px;
+ }
+
+ .highlight{
+     background-color: yellow;
+ }
+ 
+ table {
+    width: 1200px;
+    height: 200px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th{
+    background-color: rgb(99, 192, 250);
+    color: white;
+}
+ 
+.cell{
+    width: 200px;
+}
+ 
+.cellcolor{
+    background-color: lightblue;
+}
+ 
+.footer{
+    color: grey;
+}
+
+.footerimg{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    bottom: 160px;
+    right: 300px;
+}
